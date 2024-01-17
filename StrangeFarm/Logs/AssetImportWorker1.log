@@ -269,3 +269,8 @@ Start importing Assets/Sprites/site.png using Guid(7866ce8befbf047de94276beda647
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 [usbmuxd] Detached: 3 00008030-0015702022EA802E
+[usbmuxd] Attached: 4 00008030-0015702022EA802E
+[usbmuxd] Detached: 4 00008030-0015702022EA802E
+[usbmuxd] Attached: 5 00008030-0015702022EA802E
+[usbmuxd] Detached: 5 00008030-0015702022EA802E
+[usbmuxd] Attached: 6 00008030-0015702022EA802E

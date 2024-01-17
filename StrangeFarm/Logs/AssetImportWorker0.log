@@ -621,3 +621,8 @@ Received Import Request.
 Start importing Assets/Sprites/eggs.png using Guid(a6d1d9346545d41d2918ff994459547f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56a4763b3d3a52f426cb19f01756b12') in 0.121228 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 7
+[usbmuxd] Attached: 4 00008030-0015702022EA802E
+[usbmuxd] Detached: 4 00008030-0015702022EA802E
+[usbmuxd] Attached: 5 00008030-0015702022EA802E
+[usbmuxd] Detached: 5 00008030-0015702022EA802E
+[usbmuxd] Attached: 6 00008030-0015702022EA802E
