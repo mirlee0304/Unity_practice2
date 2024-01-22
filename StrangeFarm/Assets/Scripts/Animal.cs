@@ -7,6 +7,7 @@ public class Animal : MonoBehaviour
     public int id;
     public int[] HP;
     public int siteNum;
+    public int age;
     public string head;
     public string upperBody;
     public string lowerBody;

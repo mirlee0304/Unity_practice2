@@ -64,7 +64,6 @@ public class SiteSelection : MonoBehaviour
                     newPosition.anchoredPosition = new Vector2(newPosition.anchoredPosition.x + 100, newPosition.anchoredPosition.y);
                 }
 
-                // Set button's Text (here, displaying an integer)
                 buttonObj.GetComponentInChildren<Text>().text = ((row * gridSize) + col + 1).ToString();
 
             }

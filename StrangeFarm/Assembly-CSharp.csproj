@@ -62,6 +62,7 @@
     <Compile Include="Assets/Scripts/SiteSelection.cs" />
     <Compile Include="Assets/Scripts/MainBehavior.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
+    <Compile Include="Assets/Scripts/TopBar.cs" />
     <Compile Include="Assets/Scripts/Animal.cs" />
   </ItemGroup>
   <ItemGroup>
