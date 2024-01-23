@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{E8D82C3C-A73A-4FE1-34CE-847AE8A7D889}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TopBar.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameStart.cs">
     <Files>
-      <File FileName="Assets/Scripts/GameManager.cs" Line="11" Column="38" />
-      <File FileName="Assets/Scripts/Animal.cs" Line="12" Column="24" />
-      <File FileName="Assets/Scripts/MainBehavior.cs" Line="14" Column="1" />
-      <File FileName="Assets/Scripts/TopBar.cs" Line="14" Column="9" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="40" Column="21" />
+      <File FileName="Assets/Scripts/Animal.cs" Line="10" Column="20" />
+      <File FileName="Assets/Scripts/MainBehavior.cs" Line="87" Column="42" />
+      <File FileName="Assets/Scripts/TopBar.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Shop.cs" Line="16" Column="35" />
+      <File FileName="Assets/Scripts/GameStart.cs" Line="1" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +14,7 @@
           <Node name="StrangeFarm" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="TopBar.cs" selected="True" />
+                <Node name="GameStart.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2463d3f9-36a1-4814-a09d-b33c12032bdd" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9a49e9f2-10fd-40c0-a9cb-a2d08e67ad16" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

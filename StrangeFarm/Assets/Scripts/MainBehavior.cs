@@ -22,7 +22,6 @@ public class MainBehavior : MonoBehaviour
         hp = currentAnimal.HP;
 
         bars = GameObject.FindGameObjectsWithTag("HP");
-
     }
 
     void Update()
@@ -33,6 +32,7 @@ public class MainBehavior : MonoBehaviour
 
         for (int i = 0;i<3;i++)
         {
+
             bars[i].GetComponentsInChildren<Image>()[hp[i]].enabled = true;
         }
     }
@@ -42,6 +42,7 @@ public class MainBehavior : MonoBehaviour
         if(hp[0] < 3)
         {
             GameManager.money -= 10 * currentAnimal.age;
+            bars[0].GetComponentsInChildren<Image>()[hp[0]].enabled = false;
             hp[0] += 1;
         }
     }
@@ -51,6 +52,7 @@ public class MainBehavior : MonoBehaviour
         if (hp[0] < 3)
         {
             GameManager.money -= 10 * currentAnimal.age;
+            bars[1].GetComponentsInChildren<Image>()[hp[1]].enabled = false;
             hp[1] += 1;
         }
     }
@@ -60,6 +62,7 @@ public class MainBehavior : MonoBehaviour
         if (hp[0] < 3)
         {
             GameManager.money -= 10 * currentAnimal.age;
+            bars[2].GetComponentsInChildren<Image>()[hp[2]].enabled = false;
             hp[2] += 1;
         }
     }

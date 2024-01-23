@@ -59,11 +59,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/SiteClicked.cs" />
+    <Compile Include="Assets/Scripts/Shop.cs" />
     <Compile Include="Assets/Scripts/SiteSelection.cs" />
     <Compile Include="Assets/Scripts/MainBehavior.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/TopBar.cs" />
     <Compile Include="Assets/Scripts/Animal.cs" />
+    <Compile Include="Assets/Scripts/GameStart.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -37,7 +37,8 @@ void Awake()
         {
             sites[i] = 0;
         }
-        
+        money = 100;
+        currentSite = 0;
     }
 
     void Update()
